@@ -67,8 +67,10 @@ The menu text CAMPER CAFE has a different space from the top than the address's 
 This is due to the browser having some default top margin for the h1 element.
 Change the top margin of the h1 element to 0 to remove all the top margin.
 
+
 Step 85
 To remove some of the vertical space between the h1 element and the text Est. 2020, change the bottom margin of the h1 to 15px.
+
 
 Step 86
 Now the top spacing looks good. 
@@ -80,3 +82,8 @@ create a class selector named address and use the value 5px for the margin-botto
 Step 87
 Now apply the address class to the p element containing the street address 123 Free Code Camp Drive.
 
+
+Step 88
+The menu looks good, but other than the coffee beans background image, it is mainly just text.
+Under the Coffee heading, add an image using the url https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg. 
+Give the image an alt value of coffee icon.
