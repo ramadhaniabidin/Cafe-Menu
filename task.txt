@@ -94,3 +94,7 @@ The image you added is not centered horizontally like the Coffee heading above i
 To make the image behave like heading elements (which are block-level), 
 create an img type selector and use the value block for the display property 
 and use the applicable margin-left and margin-right values to center it horizontally.
+
+Step 90
+Add one last image under the Desserts heading using the url https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg. 
+Give the image an alt value of pie icon.
